@@ -8,7 +8,7 @@ Welcome to SneakStreet, where sneaker enthusiasts unite! Discover the latest rel
 
 ## Demo
 
-[Live](https://sinhaamrit.github.io/sneak-street)
+[Live](https://sinhaamrit.github.io/sneak-street/dist/)
 
 ## Run Locally
 
