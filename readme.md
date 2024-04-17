@@ -10,6 +10,10 @@ Welcome to SneakStreet, where sneaker enthusiasts unite! Discover the latest rel
 
 [Live](https://sinhaamrit.github.io/sneak-street/dist/)
 
+## Lighthouse Report
+
+![screenshot(Lighthouse report)](/lighthouse-report.png)
+
 ## Run Locally
 
     git clone git@github.com:SinhaAmrit/sneak-street.git
